@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a hotel booking app, where I am asked to modify for localization and internationalization.
-- 🌱 I’m currently learning advanced Java.
-- 👯 I’m looking to collaborate on a back-end role.
+- 🔭 I’m recently completed a vacation planner Android mobile application.
+- 🌱 I’m currently working on my capstone project for to receive a Software Enigneering Bachelor's Degree.
+- 👯 I’m looking to collaborate on an fullstack project.
